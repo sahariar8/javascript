@@ -1,0 +1,15 @@
+h1{
+    color: tomato;
+}
+li{
+    color: teal;
+}
+#fruits-title{
+    color: salmon;
+}
+#place-title{
+    color: sandybrown;
+}
+.place{
+    color: rgb(139, 0, 7);
+}
